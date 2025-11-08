@@ -31,5 +31,5 @@ And then go to there create that folder and file `xml/network_security_config.xm
 </network-security-config>
 ```
 
-Then workable backend with flutter product
+Then workable backend with flutter product and flutter on call any data and post method use that ip `http://192.168.43.115:8000`
 
