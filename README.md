@@ -5,10 +5,6 @@ At first create flutter product and create backend laravel or any things. Then b
 ```
 php artisan serve --host=0.0.0.0 --port=8000
 ```
-or
-```
-php artisan serve
-```
 
 Go to flutter prodect and there go to the file 
 ```android/app/src/main/AndroidManifest.xml```
